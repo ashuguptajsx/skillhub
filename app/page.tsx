@@ -285,7 +285,7 @@ const Home = () => {
           >
             {[
               {
-                title: "Expert Instructors",
+                title: "Instructors",
                 description:
                   "Learn from industry professionals with years of experience.",
               },
@@ -310,7 +310,7 @@ const Home = () => {
                   "Connect with peers and instructors for support and networking.",
               },
               {
-                title: "Certificates",
+                title: "Certifications",
                 description:
                   "Earn recognized certificates upon course completion.",
               },
